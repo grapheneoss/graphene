@@ -1,2 +1,5 @@
+![plain](https://symthoptic.github.io/graphene/assets/graphene.png)
+<p align="center">
+
 # graphene
-A fast lightweight open-source client area for pterodactyl panel
+Under development
